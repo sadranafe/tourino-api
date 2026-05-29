@@ -12,7 +12,7 @@
     "capacity": 30,
     "insurance": true,
     "options": ["راهنمای تور", "ساحل اختصاصی", "صبحانه، نهار و شام"],
-    "image": "/static/images/kurdestanTour.png"
+    "image": "https://vigilant-wholeness-production-18fc.up.railway.app/static/images/kurdestanTour.png"
   },
   {
     "id": "b2c3d4e5-f678-90ab-cdef-234567890abc",
@@ -27,7 +27,7 @@
     "capacity": 150,
     "insurance": false,
     "options": ["راهنمای تور", "نهار و شام"],
-    "image": "/static/images/madridTour.png"
+    "image": "https://vigilant-wholeness-production-18fc.up.railway.app/static/images/madridTour.png"
   },
   {
     "id": "c3d4e5f6-7890-abcd-ef12-34567890abcd",
@@ -42,7 +42,7 @@
     "capacity": 50,
     "insurance": true,
     "options": ["نهار و صبحانه", "هفل پنج ستاره"],
-    "image": "/static/images/sulaymaniyahTour.png"
+    "image": "https://vigilant-wholeness-production-18fc.up.railway.app/static/images/sulaymaniyahTour.png"
   },
   {
     "id": "d4e5f678-90ab-cdef-1234-567890abcdef",
@@ -57,7 +57,7 @@
     "capacity": 30,
     "insurance": false,
     "options": ["نهار و صبحانه", "هفل پنج ستاره"],
-    "image": "/static/images/arbilTour.png"
+    "image": "https://vigilant-wholeness-production-18fc.up.railway.app/static/images/arbilTour.png"
   },
   {
     "id": "e5f67890-abcd-ef12-3456-7890abcdef12",
@@ -72,7 +72,7 @@
     "capacity": 350,
     "insurance": true,
     "options": ["نهار و صبحانه", "هفل پنج ستاره"],
-    "image": "/static/images/mazandaranTour.png"
+    "image": "https://vigilant-wholeness-production-18fc.up.railway.app/static/images/mazandaranTour.png"
   },
   {
     "id": "f67890ab-cdef-1234-5678-90abcdef1234",
@@ -87,7 +87,7 @@
     "capacity": 250,
     "insurance": true,
     "options": ["نهار و صبحانه", "هفل پنج ستاره"],
-    "image": "/static/images/offroadTour.png"
+    "image": "https://vigilant-wholeness-production-18fc.up.railway.app/static/images/offroadTour.png"
   },
   {
     "id": "67890abc-def1-2345-6789-0abcdef12345",
@@ -102,6 +102,6 @@
     "capacity": 200,
     "insurance": true,
     "options": ["نهار و صبحانه", "هفل پنج ستاره"],
-    "image": "/static/images/italyTour.png"
+    "image": "https://vigilant-wholeness-production-18fc.up.railway.app/static/images/italyTour.png"
   }
 ]
